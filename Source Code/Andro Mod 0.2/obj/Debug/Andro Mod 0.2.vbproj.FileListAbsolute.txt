@@ -1,0 +1,245 @@
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\ernes\Desktop\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Galeria.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.deporte.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.material.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.paisajes.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.sistemas.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.info.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form1.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form2.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.deporte.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form1.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form2.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Galeria.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.info.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.material.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.paisajes.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.sistemas.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+G:\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.deporte.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form1.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form2.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Galeria.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.info.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.material.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.paisajes.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.sistemas.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+G:\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.deporte.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form1.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form2.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Galeria.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.info.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.material.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.paisajes.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.sistemas.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Word.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Games.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.j1.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.j2.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Word.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.tbcprincipal.resources
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.wkspbkaxLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.wkspbkaxLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.wkspbkaxLib.dll
+F:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.wkspbkaxLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.wkspbkaxLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.wkspbkaxLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.wkspbkaxLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.wkspbkaxLib.dll
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Agenda.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.tbcprincipal.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Games.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.j1.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.j2.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Word.resources
+C:\Ciclo II\Programacion Computacional1\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Database2.accdb
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.wkspbkaxLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.wkspbkaxLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Database2.accdb
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.wkspbkaxLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.wkspbkaxLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Agenda.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.tbcprincipal.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Games.resources
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.MSExchangeLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\Interop.MSTSCLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.MSExchangeLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.MSExchangeLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\Interop.MSTSCLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.MSExchangeLib.dll
+E:\Yami\Andro Mod 0.2\Andro Mod 0.2\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.MSExchangeLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.wkspbkaxLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.MSExchangeLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.wkspbkaxLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.pdb
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.xml
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Interop.MSExchangeLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Interop.wkspbkaxLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\AxInterop.MSExchangeLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\AxInterop.wkspbkaxLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Agenda.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Apps.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.tbcprincipal.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Calc.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.deporte.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form1.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Form2.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Galeria.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Games.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Home.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.info.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.material.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Music.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Resources.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Nav.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.paisajes.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.sistemas.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Video.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro_Mod_0._2.Word.resources
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.GenerateResource.Cache
+C:\Users\Mauricio Cruz\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\BDAgenda.mdb
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Debug\Andro Mod 0.2.exe.config
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.exe
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.xml
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Debug\Andro Mod 0.2.pdb

@@ -1,0 +1,183 @@
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe.config
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\BDAgenda.mdb
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.pdb
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.xml
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSExchangeLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Agenda.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Apps.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.tbcprincipal.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Calc.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.deporte.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form1.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form2.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Galeria.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Games.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Home.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.info.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.material.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Music.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Resources.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Nav.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.paisajes.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.sistemas.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Video.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Word.resources
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.exe
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.xml
+C:\Users\Ernesto\Desktop\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.pdb
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe.config
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSExchangeLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSTSCLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.wkspbkaxLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.WMPLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSExchangeLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.exe
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.xml
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.pdb
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\BDAgenda.mdb
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.pdb
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.xml
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSExchangeLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSTSCLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.wkspbkaxLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.WMPLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSExchangeLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Agenda.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Apps.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.tbcprincipal.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Calc.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.deporte.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form1.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form2.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Galeria.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Games.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Home.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.info.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.material.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Music.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Resources.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Nav.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.paisajes.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.sistemas.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Video.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Word.resources
+C:\Users\Ernesto\Documents\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.GenerateResource.Cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe.config
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSTSCLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.xml
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbprojResolveAssemblyReference.cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Apps.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.tbcprincipal.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Calc.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.deporte.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form1.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form2.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Galeria.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Games.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Home.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.info.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.material.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Music.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Resources.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Nav.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.paisajes.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.sistemas.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Video.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Word.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.GenerateResource.Cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.xml
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSTSCLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe.config
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.exe
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.pdb
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Andro Mod 0.2.xml
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.MSTSCLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.wkspbkaxLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\Interop.WMPLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbprojAssemblyReference.cache
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.MSTSCLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.wkspbkaxLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Interop.WMPLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.wkspbkaxLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.ResolveComReference.cache
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Apps.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.tbcprincipal.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Calc.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.deporte.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form1.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Form2.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Galeria.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Games.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Home.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.info.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.material.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Music.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Resources.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Nav.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.paisajes.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.sistemas.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Video.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro_Mod_0._2.Word.resources
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.GenerateResource.cache
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.vbproj.CoreCompileInputs.cache
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.exe
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.xml
+C:\Users\ernes\Proyectos\Andro Mod 0.2 Alpha\Andro Mod 0.2\obj\Release\Andro Mod 0.2.pdb
